@@ -7,13 +7,13 @@ Workspace is set up to be used in STM32CubeIDE environment.
 
 ## Quick setup
 Follow
-<a href="https://github.com/Krle97/NUCLEO_F439ZI_workspace/blob/main/APPL/05_supporting/Project%20Setup.pdf">Project Setup.pdf</a>
+<a href="https://github.com/Krle97/NUCLEO_F446RE_workspace/blob/main/APPL/05_supporting/Project%20Setup.pdf">Project Setup.pdf</a>
 guide.
 
 ## Necessary software tools
 
 List of necessary software tools can be found in 
-<a href="https://github.com/Krle97/NUCLEO_F439ZI_workspace/blob/main/APPL/05_supporting/Project%20Setup.pdf">Project Setup.pdf</a>
+<a href="https://github.com/Krle97/NUCLEO_F446RE_workspace/blob/main/APPL/05_supporting/Project%20Setup.pdf">Project Setup.pdf</a>
 under "Necessary tools" paragraph.
 
 ## Directories
@@ -23,7 +23,7 @@ Here are listed all directories used within the project.
 
 Contains linker script tailored for **NUCLEO-F446RE board** and makefile which specifies how the project should be 
 configured for a build. More information can be found in 
-<a href="https://github.com/Krle97/NUCLEO_F439ZI_workspace/blob/main/APPL/05_supporting/Project%20Setup.pdf">Project Setup.pdf</a> 
+<a href="https://github.com/Krle97/NUCLEO_F446RE_workspace/blob/main/APPL/05_supporting/Project%20Setup.pdf">Project Setup.pdf</a> 
 under "Start new STM32 project" paragraph.
 
 ### 01_hw
