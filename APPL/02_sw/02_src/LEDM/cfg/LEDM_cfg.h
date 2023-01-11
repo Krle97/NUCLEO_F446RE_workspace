@@ -15,6 +15,6 @@
 /// Register address used for toggling pin output
 #define LEDM_REGISTER_GROUP GPIOA
 /// Pin position in register
-#define LEDM_REGISTER_PIN GPIO_PIN_6
+#define LEDM_REGISTER_PIN GPIO_PIN_5
 
 #endif /* LEDM_CFG_H_ */
