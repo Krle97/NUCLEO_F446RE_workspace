@@ -1,4 +1,4 @@
-# NUCLEO_F439ZI project
+# NUCLEO_F446RE project
 
 This workspace contains necessary files for modifying, building and flashing software for **NUCLEO-F446RE board**.  
 Board
